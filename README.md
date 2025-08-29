@@ -39,7 +39,9 @@ This project applies **K-Means Clustering** to segment customers based on their 
 
 👩‍💻 Author
 Pallavi Chaudhary
+
 Email: pallavichaudh744@gmail.com
+
 GitHub: pallavi562
 
 ---
