@@ -25,9 +25,11 @@ This project applies **K-Means Clustering** to segment customers based on their 
 - **Jupyter Notebook**
 
 ## 📊 Screenshots
-![Elbow Method](images/elbow_method.png)
-![Cluster Visualization](images/cluster_visualization.png)
-![3D Cluster Visualization](images/3d_visualization.png)
+![Elbow Method]<img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/5dbbf39f-b55d-4c94-99be-4a84cf94c8f5" />
+
+![Cluster Visualization]<img width="800" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/81df755f-d03b-41f4-8ccb-3235073c2779" />
+
+![3D Cluster Visualization]<img <img width="1024" height="663" alt="Figure_4" src="https://github.com/user-attachments/assets/773a99bc-90bd-4e29-a391-1635339ff7a3" />
 
 ## 🚀 Future Enhancements
 - ✅ Use **Hierarchical Clustering** for comparison  
